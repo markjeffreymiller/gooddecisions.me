@@ -21,7 +21,7 @@ description: "»TANKS«"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://gooddecisions.me"
+url: "http://www.gooddecisions.me"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
