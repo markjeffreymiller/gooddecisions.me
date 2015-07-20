@@ -24,7 +24,7 @@ widget-3:
     title: "Registry"
     url: 'fixme'
     text: '<ul><li><a href="https://rei.com">REI</a><li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a>'
-    image: ms/castleRock302x220.jpg
+    image: ms/castlerock302x220.jpg
 ---
 
 
