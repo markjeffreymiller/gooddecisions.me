@@ -8,7 +8,7 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Good Decisions"
+title: "Mark ♡ Sheila"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -16,7 +16,7 @@ slogan: "It's Wedding Celebration"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»TANKS«"
+description: ""
 
 
 # This URL is the main adresse. Don't include a slash at the end.
@@ -26,19 +26,18 @@ baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
 #
-# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
+# Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 urlimg: "/images"
 
-
 # Logo size is 600x80 pixels
-logo: ""
+logo: "/GoodDecisionsLogo.png"
 
 
 # Paginates all X entries
