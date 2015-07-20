@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Mark ♡ Sheila"
 header:
-   caption: "It's Road Trip"
+   # caption: "It's Road Trip"
    image_fullwidth: "ms/loveSplash.jpg"
 widget-1:
     title: "Getting to SF"
@@ -24,7 +24,7 @@ widget-3:
     title: "Registry"
     url: 'fixme'
     text: '<ul><li><a href="https://rei.com">REI</a><li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a>'
-    image: ms/castleRock302x182.jpg
+    image: ms/castleRock302x220.jpg
 ---
 
 
