@@ -10,21 +10,18 @@ header:
    # caption: "It's Road Trip"
    image_fullwidth: "ms/loveSplash.jpg"
 widget-1:
-    title: "Getting to SF"
-    url: '/fixme'
-    text: "Most of you already live here, or otherwise you'll fly."
-    image: ms/luCrazy302x182.jpg
-widget-2:
-    title: "Schedule"
-    url: '/fixme'
-    text: '<em>Lots of stuff happening.</em> Lots.<br>'
-    # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
-    image: ms/enzo302x182.jpg
-widget-3:
-    title: "Registry"
-    url: 'fixme'
-    text: '<ul><li><a href="https://rei.com">REI</a><li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a>'
+    title: "Wedding"
+    url: 'wedding'
+    text: ""
     image: ms/castlerock302x220.jpg
+#widget-2:
+#    title: "Other"
+#    text: '<em>Lots of stuff happening.</em> Lots.<br>'
+#    image: ms/enzo302x182.jpg
+#widget-3:
+#    title: "and more"
+#    text: '<ul><li><a href="https://rei.com">REI</a><li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a>'
+#    image: ms/castlerock302x220.jpg
 ---
 
 
