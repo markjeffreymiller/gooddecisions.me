@@ -1,0 +1,10 @@
+{% comment %}
+*   
+*   Example: {% include linked-photo.html path='/images/ms/test.jpg' caption="this is a picture" %}
+*   
+{% endcomment %}
+<a href="{{ site.url }}/{{ include.path }}">
+  <img data-caption="{{ include.caption }}" class="th" src="{{ site.url }}/{{ include.path }}">
+</a>
+
+
