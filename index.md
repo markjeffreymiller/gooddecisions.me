@@ -14,6 +14,7 @@ widget-1:
     url: 'wedding'
     text: ""
     image: ms/castlerock302x220.jpg
+include_posts: false
 #widget-2:
 #    title: "Other"
 #    text: '<em>Lots of stuff happening.</em> Lots.<br>'
