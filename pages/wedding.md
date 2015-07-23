@@ -11,5 +11,11 @@ permalink: "/wedding/"
 
 <ul>
   <li><a href="/wedding/gallery">Pictures!</a></li>
+  <li>Registries (work in progress)
+    <ul>
+      <li><a href="https://rei.com">REI</a></li>
+      <li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a></li>
+    </ul>
+  </li>
 </ul>
 
