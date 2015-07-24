@@ -28,11 +28,13 @@ permalink: "/wedding/"
 
   <div class="medium-4 columns t30">
     <h1>Registries</h1>
-    <h6>(work in progress)</h6>
-    <ul>
+    <h6>(Check back in August)</h6>
+    <!-- <ul>
       <li><a href="https://rei.com">REI</a></li>
+      <li><a href="https://homedepot.com">Home Depot</a></li>
       <li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a></li>
-    </ul>
+      <li><a href="https://secure.williams-sonoma.com/registry/9kdzdc2qsg/registry-list.html">Williams Sonoma (access code: "SMMiller")</a></li>
+    </ul> -->
   </div><!-- /.medium-4.columns -->
 
 
