@@ -8,7 +8,7 @@ layout: frontpage
 title: "Mark ♡ Sheila"
 header:
    # caption: "It's Road Trip"
-   image_fullwidth: "ms/loveSplash.jpg"
+   image_fullwidth: "ms/nzMushroom.jpg"
 widget-1:
     title: "Wedding"
     url: 'wedding'
