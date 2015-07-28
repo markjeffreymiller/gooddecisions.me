@@ -15,7 +15,7 @@ permalink: "/wedding/"
     <ul>
       <li>Friday: Private ceremony</li>
       <li>Saturday: <a href="http://www.pizzaiolooakland.com">Party</a></li>
-      <li>Sunday: Brunch (out-of-town guests only!)</li>      
+      <li>Sunday: Family Brunch</li>
     </ul>
   </div><!-- /.medium-4.columns -->
 
@@ -33,7 +33,9 @@ permalink: "/wedding/"
       <li><a href="https://rei.com">REI</a></li>
       <li><a href="https://homedepot.com">Home Depot</a></li>
       <li><a href="http://www.amazon.com/registry/wedding/18PJAUXQVGHSJ">Amazon</a></li>
-      <li><a href="https://secure.williams-sonoma.com/registry/9kdzdc2qsg/registry-list.html">Williams Sonoma (access code: "SMMiller")</a></li>
+      <li><a href="https://secure.williams-sonoma.com/registry/9kdzdc2qsg/registry-list.html">
+        Williams Sonoma</a> (access code: "SMMiller")
+      </li>
     </ul> -->
   </div><!-- /.medium-4.columns -->
 
