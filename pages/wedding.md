@@ -28,7 +28,7 @@ permalink: "/wedding/"
 
   <div class="medium-4 columns t30">
     <h1>Registry</h1>
-    <h6>We feel your presence at our event is gift enough! If you feel so inclined, we've put together a few items below.</h6>
+    <h6>We feel your presence at our event is gift enough! But if you feel so inclined, we've put together a few items below.</h6>
     <ul>
       <li><a href=" http://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?registryId=542449979&eventType=Wedding&pwsurl=?mcid=EM_triggeredem_emailregistryplural__allpromos">Bed Bath & Beyond</a></li>
       <!-- <li><a href="https://rei.com">REI</a></li>
