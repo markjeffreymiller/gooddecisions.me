@@ -53,7 +53,7 @@ permalink: "/wedding/"
         <td><b>Return</b></td><td>St. Mary’s Cathedral</td><td>11:59pm</td>
       </tr>
     </table>
-    <p>San Francisco has strict rules about bus idling, so <em>please arrive 15 minutes early.</em></p>
+    <p>San Francisco has strict rules about idling buses, so <em>please arrive 15 minutes early.</em></p>
   </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
