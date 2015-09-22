@@ -23,38 +23,21 @@ permalink: "/wedding/"
       <h1>Photo Gallery</h1>
       <img src="/images/ms/love.jpg" caption="Mt Tam">
     </a>
-    
-  </div><!-- /.medium-4.columns -->
+  </div>
   
   
   <div class="medium-8 columns t30">
-    <h1>Shuttles</h1>
-    <p>We've arranged for two 50-passenger shuttles to transport everyone from SF to Oakland and back again.  Details are still being worked out, but the plan so far:</p>
-    <table>
-      <th><td colspan="3"><b>Union Square</b></td></th>
-      <tr>
-        <td><b>Depart</b></td>
-        <td><a href="http://maps.apple.com/maps?address=335%20Powell%20St,%20San%20Francisco,%20CA%20%2094102-1804,%20United%20States&auid=127352806717136090&ll=37.787764,-122.408766&lsp=9902&q=The%20Westin%20St%20Francis%20On%20Union%20Square%20-%20Reservations%20-%20World%20Wid&t=m">The Westin St. Francis</a> (across the street from Morton's Steakhouse)</td>
-        <td>5:30pm</td>
-      </tr>
-      <tr>
-        <td><b>Return</b></td><td>The Westin St. Francis</td><td>11:15pm</td>
-      </tr>
-      <th><td colspan="3"><b>Pac Heights / NoPa</b></td></th>
-      <tr>
-        <td><b>Depart</b></td>
-        <td><a href="http://maps.apple.com/maps?address=1111%20Gough%20St,%20San%20Francisco,%20CA%2094109-6606,%20United%20States&auid=3663762669383790749&ll=37.784234,-122.425375&lsp=9902&q=Saint%20Mary's%20Cathedral&t=m">St. Mary’s Cathedral, 1111 Gough St</a></td>
-        <td>5:30pm</td>
-      </tr>
-      <!-- <tr>
-        <td><b>Pickup?</b></td><td>TBD</td><td>5:40pm</td>
-      </tr> -->
-      <tr>
-        <td><b>Return</b></td><td>St. Mary’s Cathedral</td><td>11:59pm</td>
-      </tr>
-    </table>
-    <p>San Francisco has strict rules about idling buses, so <em>please arrive 15 minutes early.</em></p>
-  </div><!-- /.medium-4.columns -->
+    <h1>Two Weeks To Go!</a></h1>
+    <p>We’re less than two weeks away from our wedding party and excited to see you soon. A few reminders below about the event:</p>
+    <h3><a href="/wedding/shuttles">Shuttles</a></h3>
+    <p>We've arranged for two 50-passenger shuttles to transport everyone from SF to Oakland and back again on Sunday.  
+      <a href="/wedding/shuttles">More details…</a></p>
+    <h3><a href="http://www.weather.com/weather/tenday/l/San+Francisco+CA+USCA0987:1:US">Weather</a></h3>
+    <p>October in SF and Oakland can be… well, we’re not sure! Plan for temperatures during the day in the low 70s and cool evenings in the mid 50s. Pizzaiolo has both indoor and outdoor spaces, so plan for both warm dancing inside and cool mingling on the outside patio.</p>
+    <h3><a href="https://instagram.com/p/52o_JEAMf1/?taken-by=mensweardog">Attire</a></h3>
+    <p>Dressy casual! Suggestions: men - slacks + sport coat or blazer, women - dress or sassy slacks.</p>
+
+  </div>
 
 </div><!-- /.row -->
 
@@ -72,6 +55,7 @@ permalink: "/wedding/"
       </li>
     </ul>
   </div><!-- /.medium-4.columns -->
+  <div class="medium-8 columns t30">
 
 </div> <!-- row -->
 
