@@ -25,15 +25,13 @@ permalink: "/wedding/"
     </a>
   </div>
   
-  
   <div class="medium-8 columns t30">
     <h1>Two Weeks To Go!</a></h1>
     <p>We’re less than two weeks away from our wedding party and excited to see you soon. A few reminders below about the event:</p>
     <h3><a href="/wedding/shuttles">Shuttles</a></h3>
-    <p>We've arranged for two 50-passenger shuttles to transport everyone from SF to Oakland and back again on Sunday.  
-      <a href="/wedding/shuttles">More details…</a></p>
+    <p>We've arranged for two 50-passenger shuttles to transport everyone from SF to Pizzaiolo and back again on Saturday.  This is your chance to ride in the same beautiful silver luxury coaches where Sheila and Mark first met!  The seats are leather, the people are friendly, and the views are gorgeous.  Don’t miss it! <a href="/wedding/shuttles">More details…</a></p>
     <h3><a href="http://www.weather.com/weather/tenday/l/San+Francisco+CA+USCA0987:1:US">Weather</a></h3>
-    <p>October in SF and Oakland can be… well, we’re not sure! Plan for temperatures during the day in the low 70s and cool evenings in the mid 50s. Pizzaiolo has both indoor and outdoor spaces, so plan for both warm dancing inside and cool mingling on the outside patio.</p>
+    <p>October in SF and Oakland can be… well, we’re not sure! Plan for temperatures during the day in the mid 70s and cool evenings in the mid 50s. Pizzaiolo has both indoor and outdoor spaces, so plan for both warm dancing inside and cool mingling on the outside patio.</p>
     <h3><a href="https://instagram.com/p/52o_JEAMf1/?taken-by=mensweardog">Attire</a></h3>
     <p>Dressy casual! Suggestions: men - slacks + sport coat or blazer, women - dress or sassy slacks.</p>
 
