@@ -5,7 +5,7 @@ header:
    image_fullwidth: "ms/loveSplash.jpg"
    title: Sheila + Mark
    caption:  "it's wedsite."
-teaser: "Hello loved ones! We are so excited for you to join us in October. We'll be updating the website with information in upcoming weeks, including shuttle information from SF to the reception in mid-September."
+teaser: "Hello loved ones! We are so excited for you to join us in October. We'll be updating this website with information as the big day draws nearer."
 permalink: "/wedding/"
 ---
 
