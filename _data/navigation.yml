@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: "Wedding"
-  url: "/wedding/"
-  side: left
+# - title: "Wedding"
+#   url: "/wedding/"
+#   side: left
 
 # - title: "Templates"
 #   url: "/design/"
